@@ -10,6 +10,7 @@ import java.util.Map;
 
 public class ApiExamDatalabTrendShopping {
 
+    //naver 쇼핑 Data API
     public static void main(String[] args) {
         String clientId = "w2NuahqaIGgK0PGcNppS"; // 애플리케이션 클라이언트 아이디
         String clientSecret = "QyRT45XD8E"; // 애플리케이션 클라이언트 시크릿
